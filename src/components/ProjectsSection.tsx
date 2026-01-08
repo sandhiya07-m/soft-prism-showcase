@@ -6,21 +6,21 @@ const projects = [
     description: 'A comprehensive Java-based system featuring secure authentication, role-based access control, and efficient crime record management for law enforcement agencies.',
     icon: Shield,
     tags: ['Java', 'Authentication', 'Role-based Access', 'Database'],
-    link: '#',
+    link: 'https://github.com/sandhiya07-m?tab=repositories',
   },
   {
     title: 'Heart Disease Prediction',
     description: 'Machine Learning-based healthcare prediction model that analyzes patient data to predict the likelihood of heart disease with high accuracy.',
     icon: Heart,
     tags: ['Python', 'Machine Learning', 'Healthcare', 'Data Science'],
-    link: '#',
+    link: 'https://github.com/sandhiya07-m?tab=repositories',
   },
   {
     title: 'Multiple Disease Prediction',
     description: 'An advanced ML system that predicts multiple diseases using comprehensive patient health data, providing early detection insights for better healthcare outcomes.',
     icon: Activity,
     tags: ['Python', 'ML', 'Healthcare', 'Predictive Analytics'],
-    link: '#',
+    link: 'https://github.com/sandhiya07-m?tab=repositories',
   },
 ];
 
